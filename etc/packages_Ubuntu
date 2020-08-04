@@ -1,0 +1,11 @@
+openjdk-11-jdk
+libcurl4-openssl-dev
+libssl-dev
+libxml2-dev
+unixodbc-dev
+libfontconfig1-dev
+libcairo2-dev
+gdebi-core
+firewalld
+r-base-dev
+r-base
