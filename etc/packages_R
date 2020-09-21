@@ -124,6 +124,7 @@ mapdata
 mapproj
 maps
 maptools
+rgdal
 
 # General utilities
 caTools
