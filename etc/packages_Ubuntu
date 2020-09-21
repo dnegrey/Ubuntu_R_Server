@@ -5,6 +5,7 @@ libxml2-dev
 unixodbc-dev
 libfontconfig1-dev
 libcairo2-dev
+libgdal-dev
 hugo
 gdebi-core
 firewalld
