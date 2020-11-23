@@ -6,6 +6,7 @@ unixodbc-dev
 libfontconfig1-dev
 libcairo2-dev
 libgdal-dev
+libsodium-dev
 hugo
 gdebi-core
 firewalld
