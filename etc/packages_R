@@ -36,6 +36,7 @@ rmarkdown
 shiny
 shinydashboard
 shinythemes
+shiny.semantic
 
 # htmlwidgets
 canvasXpress
@@ -107,6 +108,8 @@ tensorflow
 tfestimators
 tidytext
 yardstick
+xgboost
+gbm
 
 # Social media APIs
 Rfacebook
@@ -125,6 +128,8 @@ mapproj
 maps
 maptools
 rgdal
+geosphere
+geodist
 
 # General utilities
 caTools
