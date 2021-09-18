@@ -37,6 +37,7 @@ shiny
 shinydashboard
 shinythemes
 shiny.semantic
+shiny.router
 
 # htmlwidgets
 canvasXpress
